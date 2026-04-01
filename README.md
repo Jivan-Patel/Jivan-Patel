@@ -56,22 +56,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jivan-Patel&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivan-Patel&layout=compact&theme=tokyonight&cache_seconds=1800)"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -102,23 +86,25 @@
 
 Agriculture assistance platform helping farmers with useful information.
 
-### 🤖 AI Tools
+### 🔁 SkillSwap
 
 Experimenting with AI-powered utilities and automation tools.
-
-### ⚙️ Backend APIs
-
-Building REST APIs using **Node.js, Express, MongoDB**.
 
 ---
 
 # 🌐 Connect With Me
 
-💻 GitHub
-https://github.com/Jivan-Patel
+📩 Gmail
+patel.jivan.cg@gmail.com
 
 💼 LinkedIn
+https://www.linkedin.com/in/patel-jivan
+
+</> Leetcode
 https://leetcode.com/u/patel_jivan/
+
+𝕏 X (twitter)
+https://x.com/JivanPatel76913
 
 ---
 
