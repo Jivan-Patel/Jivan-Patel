@@ -1,5 +1,7 @@
-# 👋 Hey, I'm Jivan Patel
-
+<h1>
+  👋 Hey, I'm Jivan Patel
+  <img align="right" src="https://komarev.com/ghpvc/?username=Jivan-Patel&color=blue" />
+</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Student+Developer;C%2B%2B+%7C+Node.js+Developer;React+%7C+Tailwind+Developer;Exploring+Artificial+Intelligence" />
 </p>
@@ -12,19 +14,57 @@ Developer in progress • Building projects • Always learning
 
 # 🧑‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="275"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+
+<p> <br> </p>
 
 - I am a student developer with a strong interest in building real-world applications.  
 - I enjoy working on backend systems and understanding how things work behind the scenes.  
 - Currently, I am focused on improving my problem-solving skills through data structures and algorithms.  
 - I build projects using Node.js and React to improve both frontend and backend skills.
 - I pay attention to clean UI and prefer designing interfaces with Tailwind CSS.  
-- I like exploring new technologies and continuously improving my skills through practice.
-- I am also interested in understanding how scalable systems are designed and built.
 - I enjoy turning ideas into real applications and learning from the process. 
 - My goal is to become a well-rounded developer and create impactful projects.
 
 <br clear="right"/>
+
+---
+
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:patel.jivan.cg@gmail.com" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/Gmail%20%20%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/patel-jivan" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/patel_jivan" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/LeetCode%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://x.com/JivanPatel76913" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/X%20%20%20%20%20%20-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@PatelJivan-07" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/YouTube%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.sololearn.com/en/profile/35598716" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
+</a>
+
+<a href="https://www.dropbox.com/scl/fi/6lslk899dws67b6445anc/Resume2.0.pdf?rlkey=77mgwkxrolzobsfl5m1c90y5z&st=fjzub6zv&dl=0" style="margin: 8px;">
+  <img src="https://img.shields.io/badge/Resume%20%20%20-00C853?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -96,42 +136,6 @@ Developer in progress • Building projects • Always learning
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Jivan-Patel/Jivan-Patel/output/github-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:patel.jivan.cg@gmail.com" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/Gmail%20%20%20-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/patel-jivan" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/patel_jivan" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/LeetCode%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://x.com/JivanPatel76913" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/X%20%20%20%20%20%20-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@PatelJivan-07" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/YouTube%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.sololearn.com/en/profile/35598716" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
-</a>
-
-<a href="https://www.dropbox.com/scl/fi/6lslk899dws67b6445anc/Resume2.0.pdf?rlkey=77mgwkxrolzobsfl5m1c90y5z&st=fjzub6zv&dl=0" style="margin: 8px;">
-  <img src="https://img.shields.io/badge/Resume%20%20%20-00C853?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
 </p>
 
 ---
