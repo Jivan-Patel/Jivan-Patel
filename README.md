@@ -60,7 +60,7 @@ Developer in progress • Building projects • Always learning
   <img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
 </a>
 
-<a href="https://www.dropbox.com/scl/fi/6lslk899dws67b6445anc/Resume2.0.pdf?rlkey=77mgwkxrolzobsfl5m1c90y5z&st=fjzub6zv&dl=0" style="margin: 8px;">
+<a href="https://www.dropbox.com/scl/fi/l81fd629bm0y0l8rnoey4/Patel-Jivan-Resume.pdf?rlkey=nhitb3mnl2gq0ycphbilcd8b3&dl=1" download style="margin: 8px;">
   <img src="https://img.shields.io/badge/Resume%20%20%20-00C853?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
